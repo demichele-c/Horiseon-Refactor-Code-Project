@@ -16,11 +16,12 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Proceses and Challenges 
-...
+
+```
 FIRST I adjusted structure of HTML to flow better using classes and semantic elements
 THEN I added alt tags for accessibility
 THEN I adjusted CSS style sheet to work with new classes and deleted attriubutes 
-...
+```
 
 ## Source Code 
 https://git.bootcampcontent.com/boot-camp-consortium-east-coast/FSF-PT-EAST-MAY-050624-A
