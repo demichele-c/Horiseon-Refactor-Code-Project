@@ -1,20 +1,7 @@
 # First Challenge for UCF Full Stack Coding Bootcamp
 
-## Acceptance Criteria
+## This was my first project for the UCF Full Stack Coding Bootcamp. I was given source code that was missing alt attributes, needed some adjusting to the semantic flow of the HTML, and needed some changes to the CSS stylesheet. 
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
 ## Proceses and Challenges 
 
 ```
@@ -22,6 +9,11 @@ FIRST I adjusted structure of HTML to flow better using classes and semantic ele
 THEN I added alt tags for accessibility
 THEN I adjusted CSS style sheet to work with new classes and deleted attriubutes 
 ```
+## Deployed Website Screenshot
+"./assets/images/Screenshot-Horiseon.jpg"
+
+## Project URL
+https://demichele-c.github.io/Horiseon-Refactor-Code-Project/
 
 ## Source Code 
 https://git.bootcampcontent.com/boot-camp-consortium-east-coast/FSF-PT-EAST-MAY-050624-A
