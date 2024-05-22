@@ -10,7 +10,7 @@ THEN I added alt tags for accessibility
 THEN I adjusted CSS style sheet to work with new classes and deleted attriubutes 
 ```
 ## Deployed Website Screenshot
-./Horiseon-Screenshot.png.
+Screenshot-Horiseon.png
 
 ## Project URL
 https://demichele-c.github.io/Horiseon-Refactor-Code-Project/
